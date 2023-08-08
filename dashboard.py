@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-import altair as alt
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 import numpy as np
